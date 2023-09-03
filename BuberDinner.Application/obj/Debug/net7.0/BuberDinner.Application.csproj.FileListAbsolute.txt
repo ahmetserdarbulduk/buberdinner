@@ -9,3 +9,7 @@ C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Application\obj\D
 C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
 C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
 C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll
+C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
+C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+c:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete

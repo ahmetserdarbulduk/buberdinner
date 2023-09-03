@@ -9,3 +9,9 @@ C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Infrastructure\ob
 C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\refint\BuberDinner.Infrastructure.dll
 C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.pdb
 C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\ref\BuberDinner.Infrastructure.dll
+C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.dll
+C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.dll
+C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.pdb
+C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\serdarbulduk\Desktop\projects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.CopyComplete

@@ -140,6 +140,19 @@
         "runtime": {
           "bin/placeholder/BuberDinner.Domain.dll": {}
         }
+      },
+      "BuberDinner.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "BuberDinner.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BuberDinner.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -508,12 +521,18 @@
       "type": "project",
       "path": "../BuberDinner.Domain/BuberDinner.Domain.csproj",
       "msbuildProject": "../BuberDinner.Domain/BuberDinner.Domain.csproj"
+    },
+    "BuberDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+      "msbuildProject": "../BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "BuberDinner.Application >= 1.0.0",
       "BuberDinner.Contracts >= 1.0.0",
+      "BuberDinner.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.10",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -548,6 +567,9 @@
             },
             "c:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
               "projectPath": "c:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+            },
+            "c:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
             }
           }
         }
