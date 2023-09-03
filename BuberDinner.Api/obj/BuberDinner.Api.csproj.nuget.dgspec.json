@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
+    "c:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
+    "c:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "projectUniqueName": "c:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
         "projectName": "BuberDinner.Api",
-        "projectPath": "C:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "projectPath": "c:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
         "packagesPath": "C:\\Users\\serdarbulduk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Api\\obj\\",
+        "outputPath": "c:\\Users\\serdarbulduk\\Desktop\\projects\\BuberDinner\\BuberDinner.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\serdarbulduk\\AppData\\Roaming\\NuGet\\NuGet.Config"
